@@ -6,7 +6,7 @@ Hi, I’m Rick, a Cybersecurity Analyst and Master's Candidate in Cybersecurity 
 Role: Cybersecurity Analyst specializing in organizational governance, risk management, and secure software development.
 Experience: Supporting programs with risk management initiatives, secure system integration, system and network administration, and technical support.
 
-Certifications: CySA+, Pentest+, Project+, SSCP, CIH, Sec+, Net+, A+.
+Certifications: CySA+, Pentest+, Project+, SSCP, EC-CIH, Sec+, Net+, A+.
 
 ### 📚 Academic Background
 Master’s Degree (Jan 2024): Cybersecurity and Information Assurance.
