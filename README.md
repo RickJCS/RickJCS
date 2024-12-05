@@ -9,11 +9,11 @@ Experience: Supporting programs with risk management initiatives, secure system 
 Certifications: CySA+, Pentest+, Project+, SSCP, EC-CIH, Sec+, Net+, A+.
 
 ### 📚 Academic Background
-Master’s Degree (Jan 2024): Cybersecurity and Information Assurance.
+Master’s Degree (Jan 2024): Cybersecurity and Information Assurance, Western Govenors University.
 
-Bachelor's Degree (Jun 2020): Cybersecurity and Information Assurance.
+Bachelor's Degree (Jun 2020): Cybersecurity and Information Assurance, Western Govenors University.
 
-Associate's Degree (Aug 2016): Networking Technologies (Cisco).
+Associate's Degree (Aug 2016): Networking Technologies, Calhoun Community College.
 ### 🔎 Current Focus
 Preparing for CASP+ certification in-line with degree course work.
 
