@@ -15,7 +15,7 @@ Bachelor's Degree (Jun 2020): Cybersecurity and Information Assurance.
 
 Associate's Degree (Aug 2016): Networking Technologies (Cisco).
 ### 🔎 Current Focus
-Preparing for CISM certification in-line with degree course work.
+Preparing for CASP+ certification in-line with degree course work.
 
 Completing my Master's Degree by the end of January.
 
