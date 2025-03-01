@@ -12,7 +12,9 @@ Preperation in progress: ISACA CISM and CompTIA SecurityX (CASP+)
 
 ### 📚 Education
 Master’s Degree (In-progress): Cybersecurity and Information Assurance, Western Govenors University (projected graduation by Q2 2025).
+
 Bachelor's Degree (2020): Cybersecurity and Information Assurance, Western Govenors University.
+
 Associate's Degree (2016): Networking Technologies, Calhoun Community College.
 
 ### 🔎 Current Focus
