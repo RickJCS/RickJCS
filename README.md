@@ -7,6 +7,7 @@ With 7+ years of progressive experience in cybersecurity, I’ve evolved from fo
 
 ### 📚 Certifications
 Certifications: CySA+, Pentest+, Project+, SSCP, EC-CIH, Sec+, Net+, A+.
+
 Preperation in progress: ISACA CISM and CompTIA SecurityX (CASP+)
 
 ### 📚 Education
