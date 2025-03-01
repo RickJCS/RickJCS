@@ -1,5 +1,5 @@
 ## 👋 Greetings 
-Hi, I’m Rick, a Cybersecurity Professional and Graduate student at Western Govenors University in Cybersecurity and Information Assurance. This GitHub is a workspace where I share knowledge, projects, resources, solutions, and tools that reflect my expertise and interests.
+Hi, I’m Rick, a Cybersecurity Professional and Graduate student at Western Governors University in Cybersecurity and Information Assurance. This GitHub is a workspace where I share knowledge, projects, resources, solutions, and tools that reflect my expertise and interests.
 
 ## 🌟 About Me
 ### 📌 Professional Snapshot
@@ -8,15 +8,14 @@ With 7+ years of progressive experience in cybersecurity, I’ve evolved from fo
 ### 📚 Certifications
 Certifications: CySA+, Pentest+, Project+, SSCP, EC-CIH, Sec+, Net+, A+.
 
-Preperation in progress: ISACA CISM and CompTIA SecurityX (CASP+)
+Preparation in progress: ISACA CISM and CompTIA SecurityX (CASP+).
 
 ### 📚 Education
-Master’s Degree (In-progress): Cybersecurity and Information Assurance, Western Govenors University (projected graduation by Q2 2025).
+Master’s Degree (In-progress): Cybersecurity and Information Assurance, Western Governors University (projected graduation by Q2 2025).
 
-Bachelor's Degree (2020): Cybersecurity and Information Assurance, Western Govenors University.
+Bachelor's Degree (2020): Cybersecurity and Information Assurance, Western Governors University.
 
-Associate's Degree (2016): Networking Technologies, Calhoun Community College.
+Associate’s degree (2016): Networking Technologies, Calhoun Community College.
 
 ### 🔎 Current Focus
-Completing the final course in my degree program, Cybersecurity Management, completing the final capstone project in my degree program, and earning my Master's Degree by Q2 2025.
-Developing tools and resources in-line with current studies.
+Completing the final course in my degree program, Cybersecurity Management, completing the final capstone project in my degree program, and earning my master’s degree by Q2 2025. Developing tools and resources in line with current studies.
