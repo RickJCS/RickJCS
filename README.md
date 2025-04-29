@@ -28,6 +28,7 @@ Bachelor's Degree: Cybersecurity and Information Assurance, Western Governors Un
 Associate’s degree: Networking Technologies, Calhoun Community College.
 
 ### 🔎 Current Focus
+xxx
 
 
 Let’s connect if you’re looking to integrate security at the speed of DevOps or automate compliance at scale.
